@@ -1,4 +1,4 @@
-# redux-support-drawer
+# support-drawer-redux
 
 An inline support tool that allows you to embed support icons in your
 app that open up relevant documentation inside a drawer when clicked.
