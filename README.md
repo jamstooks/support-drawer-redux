@@ -5,8 +5,8 @@ app that open up relevant documentation inside a drawer when clicked.
 
 ## Requirements
 
-- [redux]
-- [material-ui]
+- [redux](https://redux.js.org/)
+- [material-ui](https://material-ui.com/)
 
 ## Installation
 
@@ -14,12 +14,12 @@ app that open up relevant documentation inside a drawer when clicked.
 
 ## Configuration
 
-Since actions can vary significantly between applications, this
-package doesn't provide actions of its own, and will require
-you to write your own actions and one simple container.
+Most of the actions and all the reducers are written for you,
+but you will need to create one along with a custom container
+for the `SupportIcon`.
 
-Don't worry, it should be really simple and you can use the
-example app for reference.
+Most implementations will be really simple and you can use the
+example app (coming soon) for reference.
 
 ### Required Actions
 
