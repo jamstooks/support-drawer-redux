@@ -69,9 +69,9 @@ class SupportDrawer extends React.Component {
 SupportDrawer.propTypes = {
   isOpen: PropTypes.bool.isRequired,
   isFetching: PropTypes.bool.isRequired,
-  markdown: PropTypes.string.isRequired,
-  key: PropTypes.string.isRequired,
-  errorMessage: PropTypes.string.isRequired,
+  markdown: PropTypes.string,
+  supportItemKey: PropTypes.string,
+  errorMessage: PropTypes.string,
   position: PropTypes.string,
 
   close: PropTypes.func.isRequired,
