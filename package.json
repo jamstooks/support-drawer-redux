@@ -1,6 +1,6 @@
 {
   "name": "support-drawer-redux",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An inline support tool that allows you to embed support icons in your app that open up relevant documentation inside a drawer when clicked.",
   "main": "./dist/index.js",
   "scripts": {
