@@ -5,6 +5,8 @@
 An inline support tool that allows you to embed support icons in your
 app that open up relevant documentation inside a drawer when clicked.
 
+See it in action with the [demo](https://codesandbox.io/s/github/jamstooks/support-drawer-redux/tree/master/demo).
+
 ## Requirements
 
 - [redux](https://redux.js.org/)
